@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HexMaster.SocialR.Api", "HexMaster.SocialR.Api\HexMaster.SocialR.Api.csproj", "{2551D93A-5EC7-4E94-A5F1-0047EABC8408}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HexMaster.SocialR.Application", "HexMaster.SocialR.Application\HexMaster.SocialR.Application.csproj", "{346DCC99-B63F-49F4-B104-2146C06CA833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexMaster.SocialR.Domain", "HexMaster.SocialR.Domain\HexMaster.SocialR.Domain.csproj", "{1B8CA886-B479-4163-AB76-5527D5F2669E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2551D93A-5EC7-4E94-A5F1-0047EABC8408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2551D93A-5EC7-4E94-A5F1-0047EABC8408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2551D93A-5EC7-4E94-A5F1-0047EABC8408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2551D93A-5EC7-4E94-A5F1-0047EABC8408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{346DCC99-B63F-49F4-B104-2146C06CA833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346DCC99-B63F-49F4-B104-2146C06CA833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{346DCC99-B63F-49F4-B104-2146C06CA833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346DCC99-B63F-49F4-B104-2146C06CA833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B8CA886-B479-4163-AB76-5527D5F2669E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8CA886-B479-4163-AB76-5527D5F2669E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8CA886-B479-4163-AB76-5527D5F2669E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8CA886-B479-4163-AB76-5527D5F2669E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16BBF4E8-4949-4767-835B-38ED20A44281}
+	EndGlobalSection
+EndGlobal
